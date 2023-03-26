@@ -17,3 +17,7 @@ Project Preview:
 7. [Digital Clock](https://niharika097.github.io/HTML-CSS-JS-practice-projects/Project7-%20Digital%20Clock)
 
 8. [Calculator](https://niharika097.github.io/HTML-CSS-JS-practice-projects/Project8-%20Calculator)
+
+9. [Grocery List](https://niharika097.github.io/HTML-CSS-JS-practice-projects/Project9-%20Grocery%20List)
+
+10. [Spotify Clone](https://niharika097.github.io/HTML-CSS-JS-practice-projects/Project10-%20Spotify%20Clone)
